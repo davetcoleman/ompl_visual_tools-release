@@ -1,3 +1,24 @@
+## ompl_visual_tools (indigo) - 2.3.0-0
+
+The packages in the `ompl_visual_tools` repository were released into the `indigo` distro by running `/usr/bin/bloom-release ompl_visual_tools -t indigo -r indigo` on `Sat, 05 Dec 2015 19:10:41 -0000`
+
+The `ompl_visual_tools` package was released.
+
+Version of package(s) in repository `ompl_visual_tools`:
+- upstream repository: https://github.com/davetcoleman/ompl_rviz_viewer.git
+- release repository: https://github.com/davetcoleman/ompl_visual_tools-release.git
+- rosdistro version: `2.2.1-0`
+- old version: `2.2.1-0`
+- new version: `2.3.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## ompl_visual_tools (indigo) - 2.2.1-0
 
 The packages in the `ompl_visual_tools` repository were released into the `indigo` distro by running `/usr/bin/bloom-release ompl_visual_tools -t indigo -r indigo` on `Thu, 08 Jan 2015 05:18:37 -0000`
