@@ -1,0 +1,12 @@
+Source: ros-indigo-ompl-visual-tools
+Section: misc
+Priority: extra
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-graph-msgs, ros-indigo-moveit-core, ros-indigo-moveit-planners-ompl, ros-indigo-moveit-visual-tools, ros-indigo-ompl (>= 0.14.0), ros-indigo-roscpp, ros-indigo-roslib, ros-indigo-visualization-msgs
+Homepage: http://ros.org/wiki/ompl_visual_tools
+Standards-Version: 3.9.2
+
+Package: ros-indigo-ompl-visual-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-graph-msgs, ros-indigo-moveit-core, ros-indigo-moveit-planners-ompl, ros-indigo-moveit-visual-tools, ros-indigo-ompl (>= 0.14.0), ros-indigo-roscpp, ros-indigo-roslib, ros-indigo-visualization-msgs
+Description: Rviz 3-D visualizer for planning algorithms implemented with the Open Motion Planning Library (OMPL)
