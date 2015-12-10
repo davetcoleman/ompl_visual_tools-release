@@ -1,0 +1,12 @@
+Source: ros-jade-ompl-visual-tools
+Section: misc
+Priority: extra
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-graph-msgs, ros-jade-moveit-core, ros-jade-moveit-planners-ompl, ros-jade-moveit-visual-tools, ros-jade-ompl (>= 0.14.0), ros-jade-roscpp, ros-jade-roslib, ros-jade-visualization-msgs
+Homepage: http://ros.org/wiki/ompl_visual_tools
+Standards-Version: 3.9.2
+
+Package: ros-jade-ompl-visual-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-graph-msgs, ros-jade-moveit-core, ros-jade-moveit-planners-ompl, ros-jade-moveit-visual-tools, ros-jade-ompl (>= 0.14.0), ros-jade-roscpp, ros-jade-roslib, ros-jade-visualization-msgs
+Description: Rviz 3-D visualizer for planning algorithms implemented with the Open Motion Planning Library (OMPL)
