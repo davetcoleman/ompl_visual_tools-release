@@ -1,3 +1,24 @@
+## ompl_visual_tools (jade) - 2.3.1-0
+
+The packages in the `ompl_visual_tools` repository were released into the `jade` distro by running `/usr/bin/bloom-release ompl_visual_tools -t jade -r jade` on `Thu, 10 Dec 2015 18:24:20 -0000`
+
+The `ompl_visual_tools` package was released.
+
+Version of package(s) in repository `ompl_visual_tools`:
+- upstream repository: https://github.com/davetcoleman/ompl_visual_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.3.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## ompl_visual_tools (indigo) - 2.3.1-0
 
 The packages in the `ompl_visual_tools` repository were released into the `indigo` distro by running `/usr/bin/bloom-release ompl_visual_tools -t indigo -r indigo` on `Mon, 07 Dec 2015 21:19:25 -0000`
